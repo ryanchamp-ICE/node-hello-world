@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ryanchamp-ICE/node-hello-world/issues"
   },
-  "homepage": "https://github.com/ryanchamp-ICE/node-hello-world#readme"
+  "homepage": "https://github.com/ryanchamp-ICE/node-hello-world#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
 }
